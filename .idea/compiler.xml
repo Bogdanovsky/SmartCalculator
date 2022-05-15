@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-classes-kotlin.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-reports-tests.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-test-results.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task-build-tmp.main" target="11" />
+      <module name="Smart_Calculator.Smart_Calculator-task.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Convert_a_date.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Determine_the_output.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Determine_the_value__1_.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Lucky_number.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Smart_Calculator.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Aaaaaaa_to_a.main" target="11" />
+      <module name="Smart_Calculator.Topics-Regexps_in_use-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Counting_positive_numbers.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Grades.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-How_many_times_it_repeats.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Increment_in_loop.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Smart_Calculator.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Smart_Calculator.Topics-String_templates-Date_and_time_formatting.main" target="11" />
+      <module name="Smart_Calculator.Topics-String_templates-How_to_write_string_templates.main" target="11" />
+      <module name="Smart_Calculator.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Smart_Calculator.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Smart_Calculator.Topics-String_templates-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-A_winning_car.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Crash_a_program.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Exception_into_a_variable.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Handle_arithmetic_exception.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Handle_number_format_exception.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Practice.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Print_correct_exception_message.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-The_purpose_of_exceptions.main" target="11" />
+      <module name="Smart_Calculator.Topics-Taming_exceptions-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Braking_distance.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Parting_words.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch-finally_statement-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch_statement-Converter_to_Double.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch_statement-Correct_code.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch_statement-Integer_division.main" target="11" />
+      <module name="Smart_Calculator.Topics-The_try-catch_statement-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-The_largest_element.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-The_sum_of_elements.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-Theory.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-What_does_the_code_print.main" target="11" />
+      <module name="Smart_Calculator.Topics-While_loops-What_does_the_code_print__1_.main" target="11" />
+      <module name="Smart_Calculator.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<h2>Print correct exception message</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Take a look at this code:</p> 
+  <pre><code class="language-kotlin">fun doComputations(value: Int) {
+    if (value / 2 == 1) {
+        throw Exception("Divided by 2!")
+    } else if (value + 2 / 2 == 1) {
+        throw Exception("Some computations here")
+    } else {
+        throw Exception("No computations")
+    }
+}</code></pre> 
+  <p>You call this function as <code class="language-kotlin">doComputations(0)</code>. What exception message will you get?</p>
+ </body>
+</html>
